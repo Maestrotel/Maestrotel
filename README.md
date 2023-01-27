@@ -42,5 +42,6 @@ Here are some ideas to get you started:
  
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="40"/> </a>
  
+ https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg
  
  
