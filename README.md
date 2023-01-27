@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  <a href="https://parceljs.org/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg" alt="parcel" width="70" height="40"/> </a>
  
- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="40"/> </a>
+ <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
  
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="webpack" width="40" height="40"/> </a>
  
