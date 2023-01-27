@@ -22,8 +22,11 @@ Here are some ideas to get you started:
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  
- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+ <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/> </a> 
+ 
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="npm" width="40" height="40"/> </a> 
  
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -32,7 +35,9 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
@@ -42,6 +47,26 @@ Here are some ideas to get you started:
  
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="40"/> </a>
  
- https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="webpack" width="40" height="40"/> </a>
+ 
+ <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="webpack" width="40" height="40"/> </a>
+ 
+ <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="webpack" width="40" height="40"/> </a>
+ 
+ <a href="https://google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="webpack" width="40" height="40"/> </a>
+ 
+<!--  https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg
+ https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
+ https://www.vectorlogo.zone/logos/canva/canva-ar21.svg
+ https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg
+ https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg
+ https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg
+ https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg
+ https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg
+ https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg
+ https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg
+ https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg
+ https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg
+ https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg -->
  
  
