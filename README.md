@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg" alt="parcel" width="70" height="40"/> </a>
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" width="70" height="40"/> </a>
  <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> </a>
- <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="40" height="40"/> </a>
+ <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="70" height="40"/> </a>
  <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a> 
  <a href="https://google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" width="40" height="40"/> </a>
  
