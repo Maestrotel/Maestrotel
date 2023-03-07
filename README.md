@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a> 
  <a href="https://google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" width="40" height="40"/> </a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="70" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="express" width="80" height="50"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="express" width="60" height="40"/> </a>
  
 <!--  
  https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
